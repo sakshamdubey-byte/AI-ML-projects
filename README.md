@@ -22,6 +22,13 @@ A collection of end-to-end Machine Learning, Deep Learning, and Data Science pro
 - *File:* `processing_image_for_dl.ipynb`
 - *Overview:* A computer vision workflow focused on preparing image data for deep learning models, including resizing, normalization, augmentation, and color space transformations to improve model accuracy and training performance.
 
+
+## 5. pytorch_autograd_nlp
+- *File:* `pytorch_autograd_nlp.ipynb`
+- *Overview:*this mainly focuses on building nn using pytorch ,most of the thing is ai-coded in this
+
+
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
